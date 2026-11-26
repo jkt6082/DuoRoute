@@ -1,0 +1,6 @@
+DuoRoute is free software under the GNU General Public License v3.0 (see LICENSE in the repository root).
+
+Data.lua is generated from QuestieDB (https://github.com/Questie/QuestieDB) and Questie
+(https://github.com/Questie/Questie), Forever flavor. Quest locations, levels, prerequisites and
+quest tags come from those projects and are used under the GPLv3 terms the Questie team offers.
+See their LICENSE.md files for the full licensing situation. DuoRoute is not affiliated with Questie.

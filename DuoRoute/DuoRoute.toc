@@ -1,0 +1,16 @@
+## Interface: 16001, 120001, 120005, 120007
+## Title: DuoRoute
+## Notes: Step-by-step levelling guide and duo planner for WoW Forever, built from your own progress.
+## Author: Joel
+## Version: 1.0
+## SavedVariables: DuoRouteDB
+## SavedVariablesPerCharacter: DuoRouteChar
+Data.lua
+Core.lua
+Engine.lua
+Sync.lua
+Travel.lua
+Route.lua
+Guide.lua
+Arrow.lua
+UI.lua
